@@ -22,7 +22,7 @@ class Login extends Component {
             this.setState({
                 email: '',
                 password: '',
-                redirectToHome: <Redirect to="/" />
+                redirectToHome: <Redirect to="/home" />
             });
         }
     };
