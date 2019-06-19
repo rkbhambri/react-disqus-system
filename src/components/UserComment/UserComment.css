@@ -1,0 +1,31 @@
+
+.user-comment{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+
+.post-time{
+    font-size: 13px;
+    color: #aaa;
+    margin-top: 5px;
+}
+
+.user-name{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.image{
+    height: 50px;
+    width: 55px;
+}
+
+.likes img {
+    height: 15px;
+    cursor: pointer;
+}
+
+.dislikes img {
+    height: 15px;
+    cursor: pointer;
+}
