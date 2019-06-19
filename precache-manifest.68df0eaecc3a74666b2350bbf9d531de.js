@@ -16,15 +16,15 @@ self.__precacheManifest = [
     "url": "/react-disqus-system/static/js/runtime~main.7ff58e3d.js"
   },
   {
-    "revision": "2e271d5da172899fdfeb",
-    "url": "/react-disqus-system/static/js/main.1f44f3bf.chunk.js"
+    "revision": "16486506aa0f897aaf50",
+    "url": "/react-disqus-system/static/js/main.1ff5484f.chunk.js"
   },
   {
     "revision": "05eeb1f0373197031db5",
     "url": "/react-disqus-system/static/js/2.6baf0a3a.chunk.js"
   },
   {
-    "revision": "2e271d5da172899fdfeb",
+    "revision": "16486506aa0f897aaf50",
     "url": "/react-disqus-system/static/css/main.baa23b14.chunk.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/react-disqus-system/static/css/2.f651e8ed.chunk.css"
   },
   {
-    "revision": "d736371d7204e3f53f7a019ff63f6e89",
+    "revision": "458587da900488f932d5457b9e6d5c4b",
     "url": "/react-disqus-system/index.html"
   }
 ];
