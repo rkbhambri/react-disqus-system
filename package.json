@@ -1,7 +1,7 @@
 {
   "name": "react-assignment",
   "version": "0.1.0",
-  "homepage": "https://rkbhambri.github.io/react-disqus-system/",
+  "homepage": "https://rkbhambri.github.io/react-disqus-system",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
