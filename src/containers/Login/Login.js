@@ -14,7 +14,7 @@ class Login extends Component {
         password: '',
         isEmailValid: true,
         isPasswordValid: true,
-        redirectToEmployee: null
+        redirectToHome: null
     };
 
     componentDidUpdate(prevProps) {
@@ -22,7 +22,7 @@ class Login extends Component {
             this.setState({
                 email: '',
                 password: '',
-                redirectToEmployee: <Redirect to="/" />
+                redirectToHome: <Redirect to="/" />
             });
         }
     };
@@ -66,7 +66,7 @@ class Login extends Component {
     render() {
         return (
             <div className="login-wrapper col-md-4 offset-2 mt-5">
-                {this.state.redirectToEmployee}
+                {this.state.redirectToHome}
                 <Heading heading="Login" />
                 <LoginForm
                     inputChangeHandler={(event) => this.inputChangeHandler(event)}

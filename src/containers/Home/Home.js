@@ -21,7 +21,7 @@ class Home extends Component {
 
     render() {
         return (
-            <div className="employee col-md-10 offset-1" >
+            <div className="home col-md-10 offset-1" >
                 {this.state.redirectToLogin}
                 <Body isAuthenticated={this.props.isAuthenticated} onLogout={() => this.props.onLogout()} />
             </div>
